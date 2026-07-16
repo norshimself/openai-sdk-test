@@ -1,0 +1,717 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-16T12:56:55.102366Z",
+    "timeframe_days": 30,
+    "period_start": "2026-06-16",
+    "period_end": "2026-07-15"
+  },
+  "summary": {
+    "total_visitors": 41401,
+    "total_pageviews": 107351,
+    "total_conversions": 1354,
+    "average_bounce_rate": 0.4481,
+    "average_session_duration_seconds": 175.19
+  },
+  "daily_metrics": [
+    {
+      "date": "2026-06-16",
+      "visitors": 1570,
+      "pageviews": 4276,
+      "bounce_rate": 0.4735,
+      "avg_session_duration_seconds": 145.38,
+      "conversions": 32,
+      "traffic_sources": {
+        "organic_search": 632,
+        "direct": 142,
+        "referral": 525,
+        "social_media": 95,
+        "newsletter": 172
+      },
+      "devices": {
+        "desktop": 901,
+        "mobile": 164,
+        "tablet": 503
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "visitors": 1758,
+      "pageviews": 5116,
+      "bounce_rate": 0.472,
+      "avg_session_duration_seconds": 227.78,
+      "conversions": 78,
+      "traffic_sources": {
+        "organic_search": 1220,
+        "direct": 91,
+        "referral": 249,
+        "social_media": 96,
+        "newsletter": 100
+      },
+      "devices": {
+        "desktop": 334,
+        "mobile": 325,
+        "tablet": 1098
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "visitors": 1171,
+      "pageviews": 3552,
+      "bounce_rate": 0.3924,
+      "avg_session_duration_seconds": 212.09,
+      "conversions": 47,
+      "traffic_sources": {
+        "organic_search": 514,
+        "direct": 153,
+        "referral": 156,
+        "social_media": 244,
+        "newsletter": 101
+      },
+      "devices": {
+        "desktop": 759,
+        "mobile": 216,
+        "tablet": 194
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "visitors": 1579,
+      "pageviews": 4396,
+      "bounce_rate": 0.4445,
+      "avg_session_duration_seconds": 180.85,
+      "conversions": 54,
+      "traffic_sources": {
+        "organic_search": 950,
+        "direct": 361,
+        "referral": 88,
+        "social_media": 86,
+        "newsletter": 91
+      },
+      "devices": {
+        "desktop": 900,
+        "mobile": 377,
+        "tablet": 301
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "visitors": 730,
+      "pageviews": 1572,
+      "bounce_rate": 0.4993,
+      "avg_session_duration_seconds": 138.34,
+      "conversions": 15,
+      "traffic_sources": {
+        "organic_search": 302,
+        "direct": 108,
+        "referral": 202,
+        "social_media": 54,
+        "newsletter": 61
+      },
+      "devices": {
+        "desktop": 122,
+        "mobile": 142,
+        "tablet": 465
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "visitors": 831,
+      "pageviews": 2393,
+      "bounce_rate": 0.5155,
+      "avg_session_duration_seconds": 194.21,
+      "conversions": 14,
+      "traffic_sources": {
+        "organic_search": 459,
+        "direct": 168,
+        "referral": 118,
+        "social_media": 41,
+        "newsletter": 42
+      },
+      "devices": {
+        "desktop": 437,
+        "mobile": 293,
+        "tablet": 99
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "visitors": 1762,
+      "pageviews": 4965,
+      "bounce_rate": 0.4471,
+      "avg_session_duration_seconds": 184.01,
+      "conversions": 71,
+      "traffic_sources": {
+        "organic_search": 285,
+        "direct": 754,
+        "referral": 366,
+        "social_media": 188,
+        "newsletter": 167
+      },
+      "devices": {
+        "desktop": 1097,
+        "mobile": 260,
+        "tablet": 403
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "visitors": 1325,
+      "pageviews": 2876,
+      "bounce_rate": 0.4469,
+      "avg_session_duration_seconds": 145.95,
+      "conversions": 50,
+      "traffic_sources": {
+        "organic_search": 316,
+        "direct": 402,
+        "referral": 147,
+        "social_media": 376,
+        "newsletter": 82
+      },
+      "devices": {
+        "desktop": 259,
+        "mobile": 498,
+        "tablet": 567
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "visitors": 1696,
+      "pageviews": 3795,
+      "bounce_rate": 0.4555,
+      "avg_session_duration_seconds": 194.24,
+      "conversions": 29,
+      "traffic_sources": {
+        "organic_search": 915,
+        "direct": 439,
+        "referral": 137,
+        "social_media": 98,
+        "newsletter": 105
+      },
+      "devices": {
+        "desktop": 871,
+        "mobile": 271,
+        "tablet": 552
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "visitors": 1249,
+      "pageviews": 3445,
+      "bounce_rate": 0.3979,
+      "avg_session_duration_seconds": 138.86,
+      "conversions": 51,
+      "traffic_sources": {
+        "organic_search": 894,
+        "direct": 143,
+        "referral": 71,
+        "social_media": 74,
+        "newsletter": 64
+      },
+      "devices": {
+        "desktop": 339,
+        "mobile": 686,
+        "tablet": 222
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "visitors": 1602,
+      "pageviews": 3535,
+      "bounce_rate": 0.363,
+      "avg_session_duration_seconds": 124.95,
+      "conversions": 53,
+      "traffic_sources": {
+        "organic_search": 312,
+        "direct": 639,
+        "referral": 163,
+        "social_media": 269,
+        "newsletter": 217
+      },
+      "devices": {
+        "desktop": 930,
+        "mobile": 365,
+        "tablet": 305
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "visitors": 892,
+      "pageviews": 1944,
+      "bounce_rate": 0.4411,
+      "avg_session_duration_seconds": 191.97,
+      "conversions": 20,
+      "traffic_sources": {
+        "organic_search": 279,
+        "direct": 154,
+        "referral": 231,
+        "social_media": 68,
+        "newsletter": 158
+      },
+      "devices": {
+        "desktop": 591,
+        "mobile": 132,
+        "tablet": 167
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "visitors": 655,
+      "pageviews": 1531,
+      "bounce_rate": 0.4743,
+      "avg_session_duration_seconds": 206.23,
+      "conversions": 25,
+      "traffic_sources": {
+        "organic_search": 421,
+        "direct": 114,
+        "referral": 40,
+        "social_media": 37,
+        "newsletter": 40
+      },
+      "devices": {
+        "desktop": 172,
+        "mobile": 184,
+        "tablet": 298
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "visitors": 1832,
+      "pageviews": 4084,
+      "bounce_rate": 0.4033,
+      "avg_session_duration_seconds": 142.19,
+      "conversions": 32,
+      "traffic_sources": {
+        "organic_search": 1093,
+        "direct": 239,
+        "referral": 276,
+        "social_media": 128,
+        "newsletter": 93
+      },
+      "devices": {
+        "desktop": 798,
+        "mobile": 632,
+        "tablet": 401
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "visitors": 1864,
+      "pageviews": 4338,
+      "bounce_rate": 0.5178,
+      "avg_session_duration_seconds": 204.49,
+      "conversions": 73,
+      "traffic_sources": {
+        "organic_search": 430,
+        "direct": 109,
+        "referral": 978,
+        "social_media": 143,
+        "newsletter": 201
+      },
+      "devices": {
+        "desktop": 1321,
+        "mobile": 283,
+        "tablet": 259
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "visitors": 1450,
+      "pageviews": 3862,
+      "bounce_rate": 0.3863,
+      "avg_session_duration_seconds": 191.2,
+      "conversions": 51,
+      "traffic_sources": {
+        "organic_search": 556,
+        "direct": 606,
+        "referral": 126,
+        "social_media": 84,
+        "newsletter": 76
+      },
+      "devices": {
+        "desktop": 636,
+        "mobile": 217,
+        "tablet": 595
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "visitors": 1358,
+      "pageviews": 3337,
+      "bounce_rate": 0.4041,
+      "avg_session_duration_seconds": 163.7,
+      "conversions": 57,
+      "traffic_sources": {
+        "organic_search": 885,
+        "direct": 73,
+        "referral": 199,
+        "social_media": 116,
+        "newsletter": 82
+      },
+      "devices": {
+        "desktop": 670,
+        "mobile": 469,
+        "tablet": 217
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "visitors": 1652,
+      "pageviews": 4359,
+      "bounce_rate": 0.5386,
+      "avg_session_duration_seconds": 188.35,
+      "conversions": 69,
+      "traffic_sources": {
+        "organic_search": 469,
+        "direct": 462,
+        "referral": 419,
+        "social_media": 176,
+        "newsletter": 123
+      },
+      "devices": {
+        "desktop": 541,
+        "mobile": 188,
+        "tablet": 921
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "visitors": 755,
+      "pageviews": 2191,
+      "bounce_rate": 0.4166,
+      "avg_session_duration_seconds": 174.15,
+      "conversions": 27,
+      "traffic_sources": {
+        "organic_search": 109,
+        "direct": 524,
+        "referral": 44,
+        "social_media": 38,
+        "newsletter": 37
+      },
+      "devices": {
+        "desktop": 175,
+        "mobile": 499,
+        "tablet": 80
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "visitors": 1082,
+      "pageviews": 3387,
+      "bounce_rate": 0.4789,
+      "avg_session_duration_seconds": 121.3,
+      "conversions": 40,
+      "traffic_sources": {
+        "organic_search": 543,
+        "direct": 225,
+        "referral": 95,
+        "social_media": 161,
+        "newsletter": 57
+      },
+      "devices": {
+        "desktop": 225,
+        "mobile": 600,
+        "tablet": 256
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "visitors": 1362,
+      "pageviews": 4201,
+      "bounce_rate": 0.4907,
+      "avg_session_duration_seconds": 137.14,
+      "conversions": 58,
+      "traffic_sources": {
+        "organic_search": 619,
+        "direct": 111,
+        "referral": 70,
+        "social_media": 164,
+        "newsletter": 394
+      },
+      "devices": {
+        "desktop": 272,
+        "mobile": 222,
+        "tablet": 867
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "visitors": 1617,
+      "pageviews": 3519,
+      "bounce_rate": 0.4177,
+      "avg_session_duration_seconds": 162.22,
+      "conversions": 52,
+      "traffic_sources": {
+        "organic_search": 147,
+        "direct": 455,
+        "referral": 755,
+        "social_media": 158,
+        "newsletter": 100
+      },
+      "devices": {
+        "desktop": 1017,
+        "mobile": 350,
+        "tablet": 249
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "visitors": 1788,
+      "pageviews": 5139,
+      "bounce_rate": 0.4782,
+      "avg_session_duration_seconds": 171.52,
+      "conversions": 45,
+      "traffic_sources": {
+        "organic_search": 264,
+        "direct": 666,
+        "referral": 656,
+        "social_media": 94,
+        "newsletter": 105
+      },
+      "devices": {
+        "desktop": 432,
+        "mobile": 364,
+        "tablet": 990
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "visitors": 1529,
+      "pageviews": 3389,
+      "bounce_rate": 0.447,
+      "avg_session_duration_seconds": 204.58,
+      "conversions": 61,
+      "traffic_sources": {
+        "organic_search": 842,
+        "direct": 113,
+        "referral": 301,
+        "social_media": 91,
+        "newsletter": 180
+      },
+      "devices": {
+        "desktop": 798,
+        "mobile": 392,
+        "tablet": 337
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "visitors": 1651,
+      "pageviews": 3942,
+      "bounce_rate": 0.4177,
+      "avg_session_duration_seconds": 183.5,
+      "conversions": 72,
+      "traffic_sources": {
+        "organic_search": 990,
+        "direct": 305,
+        "referral": 120,
+        "social_media": 118,
+        "newsletter": 115
+      },
+      "devices": {
+        "desktop": 558,
+        "mobile": 916,
+        "tablet": 176
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "visitors": 923,
+      "pageviews": 2603,
+      "bounce_rate": 0.3702,
+      "avg_session_duration_seconds": 124.41,
+      "conversions": 27,
+      "traffic_sources": {
+        "organic_search": 63,
+        "direct": 412,
+        "referral": 297,
+        "social_media": 97,
+        "newsletter": 51
+      },
+      "devices": {
+        "desktop": 407,
+        "mobile": 331,
+        "tablet": 184
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "visitors": 1104,
+      "pageviews": 3091,
+      "bounce_rate": 0.4736,
+      "avg_session_duration_seconds": 149.74,
+      "conversions": 36,
+      "traffic_sources": {
+        "organic_search": 584,
+        "direct": 99,
+        "referral": 178,
+        "social_media": 88,
+        "newsletter": 153
+      },
+      "devices": {
+        "desktop": 270,
+        "mobile": 401,
+        "tablet": 431
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "visitors": 1376,
+      "pageviews": 3056,
+      "bounce_rate": 0.5394,
+      "avg_session_duration_seconds": 193.48,
+      "conversions": 25,
+      "traffic_sources": {
+        "organic_search": 632,
+        "direct": 500,
+        "referral": 99,
+        "social_media": 68,
+        "newsletter": 74
+      },
+      "devices": {
+        "desktop": 851,
+        "mobile": 228,
+        "tablet": 295
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "visitors": 1714,
+      "pageviews": 5049,
+      "bounce_rate": 0.4616,
+      "avg_session_duration_seconds": 237.64,
+      "conversions": 51,
+      "traffic_sources": {
+        "organic_search": 150,
+        "direct": 1170,
+        "referral": 164,
+        "social_media": 116,
+        "newsletter": 111
+      },
+      "devices": {
+        "desktop": 891,
+        "mobile": 467,
+        "tablet": 354
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "visitors": 1524,
+      "pageviews": 4408,
+      "bounce_rate": 0.3791,
+      "avg_session_duration_seconds": 221.38,
+      "conversions": 39,
+      "traffic_sources": {
+        "organic_search": 998,
+        "direct": 252,
+        "referral": 114,
+        "social_media": 79,
+        "newsletter": 79
+      },
+      "devices": {
+        "desktop": 1210,
+        "mobile": 156,
+        "tablet": 156
+      }
+    }
+  ],
+  "top_pages": [
+    {
+      "path": "/home",
+      "views": 37157,
+      "avg_time_on_page_seconds": 169.2,
+      "exit_rate": 0.5645
+    },
+    {
+      "path": "/docs/getting-started",
+      "views": 14340,
+      "avg_time_on_page_seconds": 124.3,
+      "exit_rate": 0.571
+    },
+    {
+      "path": "/pricing",
+      "views": 14268,
+      "avg_time_on_page_seconds": 155.4,
+      "exit_rate": 0.3356
+    },
+    {
+      "path": "/about",
+      "views": 13875,
+      "avg_time_on_page_seconds": 203.3,
+      "exit_rate": 0.3882
+    },
+    {
+      "path": "/blog/introducing-our-new-api",
+      "views": 9700,
+      "avg_time_on_page_seconds": 185.3,
+      "exit_rate": 0.512
+    },
+    {
+      "path": "/features",
+      "views": 9460,
+      "avg_time_on_page_seconds": 35.9,
+      "exit_rate": 0.2589
+    },
+    {
+      "path": "/contact",
+      "views": 6515,
+      "avg_time_on_page_seconds": 91.0,
+      "exit_rate": 0.4476
+    },
+    {
+      "path": "/checkout",
+      "views": 6387,
+      "avg_time_on_page_seconds": 100.0,
+      "exit_rate": 0.4679
+    },
+    {
+      "path": "/signup",
+      "views": 6181,
+      "avg_time_on_page_seconds": 257.6,
+      "exit_rate": 0.3028
+    }
+  ],
+  "demographics": {
+    "countries": {
+      "US": {
+        "visitors": 9899,
+        "conversions": 533
+      },
+      "GB": {
+        "visitors": 13910,
+        "conversions": 123
+      },
+      "DE": {
+        "visitors": 14901,
+        "conversions": 189
+      },
+      "CA": {
+        "visitors": 5540,
+        "conversions": 327
+      },
+      "FR": {
+        "visitors": 11413,
+        "conversions": 154
+      },
+      "AU": {
+        "visitors": 2886,
+        "conversions": 279
+      },
+      "JP": {
+        "visitors": 3881,
+        "conversions": 550
+      },
+      "IN": {
+        "visitors": 14265,
+        "conversions": 135
+      },
+      "BR": {
+        "visitors": 12705,
+        "conversions": 339
+      },
+      "ZA": {
+        "visitors": 7935,
+        "conversions": 428
+      }
+    }
+  }
+}
